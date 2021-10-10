@@ -26,7 +26,7 @@ jobs:
           # - build-x265
           # - build-libvpx
           # - build-wavpack
-          # - build-lame
+          - build-lame
           # - build-fdk-aac
           - build-ogg
           - build-vorbis
